@@ -6,7 +6,6 @@ This project focuses on adsorption using different types of materiales, such pol
 
 ## Objectives
 - Study adsorption kinetics
-- Evaluate isotherm models (Langmuir, Freundlich, Temkin, and others)
 
 ## Pseudo-first-order kinetic modeling
 This script fits adsorption kinetic data to the pseudo-first-order model:
