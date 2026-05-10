@@ -7,11 +7,8 @@ This project focuses on adsorption using different types of materiales, such pol
 ## Objectives
 - Study adsorption kinetics
 
-## Pseudo-first-order kinetic modeling
-This script fits adsorption kinetic data to the pseudo-first-order model:
-qt(t) = qe * (1 - exp(-k1 * t))
 
-Temperatures analyzed:
+## Temperatures analyzed (example):
 - 20 °C
 - 30 °C
 - 40 °C
