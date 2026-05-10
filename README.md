@@ -18,3 +18,6 @@ Outputs:
 - Fitted kinetic parameters (qe, k1)
 - R² values
 - Experimental vs fitted plots
+
+## Note
+The code is ready and working, you just need to enter the measured times and the values obtained in each analysis.
