@@ -1,4 +1,4 @@
-# Adsoption-methods-1
+# Kinetics Adsoption-methods-1
 Kinetics studies: 1 &amp; 2 order
 # Adsorption of Antibiotics
 
